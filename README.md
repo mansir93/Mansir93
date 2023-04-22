@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Mansir Abdul Aziz
+Frond-end developer || WordPress Developer
+Html Css Bootstrap Material UI Senemaic UI Javascript React
+https://www.mansir.netlify.app
+
 <!--
 **mansir93/Mansir93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
