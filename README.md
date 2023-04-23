@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Mansir Abdul Aziz
-Frond-end developer || WordPress Developer
+Front-end developer || WordPress Developer
 Html Css Bootstrap Material UI Semantic UI Javascript React
 https://www.mansir.netlify.app
 
